@@ -1,2 +1,2 @@
 # clean-it-project
-This is a project for the Clean It course
+This is a project for the Clean IT course
